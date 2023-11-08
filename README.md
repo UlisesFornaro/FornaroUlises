@@ -33,7 +33,7 @@
 
 - **Languajes**:
     
-    (https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+    https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
 
 <br>   
     
